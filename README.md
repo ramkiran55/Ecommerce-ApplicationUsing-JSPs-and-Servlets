@@ -1,6 +1,6 @@
 # Ecommerce-ApplicationUsing-JSPs-and-Servlets
 
-Outputs in Order:
+## Outputs in Order:
 Link : http://localhost:8080/EcomApplication/login.jsp
 After starting the server and going to this link	
 
