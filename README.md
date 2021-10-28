@@ -12,6 +12,7 @@ If username is not present in the database redirect to register.jsp
 
 fill out the details
 
+
 ![](outputs/register2.png)
 
 After registering redirect to login.jsp
