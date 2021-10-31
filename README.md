@@ -23,7 +23,7 @@ After login show user id , number of items in cart and products
 
 ![](outputs/products%20catelog%201.png)
 
-If add to cart is clicked 
+If add to cart is clicked
 
 ![](outputs/add%20to%20cart%202.png)
 
@@ -48,5 +48,6 @@ When continue is clicked after payment go to products.jsp
 ![](outputs/after%20payment%202.png)
  
 When logout is clicked 
- 
+
 ![](outputs/logout.png)
+
